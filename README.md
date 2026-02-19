@@ -14,10 +14,6 @@ The Address Book Application is a comprehensive web-based contact management sys
 6. [Usage Guide](#usage-guide)
 7. [Technical Architecture](#technical-architecture)
 8. [API Endpoints](#api-endpoints)
-9. [Code Structure](#code-structure)
-10. [Browser Compatibility](#browser-compatibility)
-11. [Troubleshooting](#troubleshooting)
-12. [Future Enhancements](#future-enhancements)
 
 ## Features
 
