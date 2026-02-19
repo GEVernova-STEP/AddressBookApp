@@ -1,0 +1,19 @@
+{
+  "name": "addressbook-app",
+  "version": "1.0.0",
+  "description": "Address Book Application with CRUD operations",
+  "main": "index.html",
+  "scripts": {
+    "start": "json-server --watch data/db.json --port 3000"
+  },
+  "keywords": [
+    "addressbook",
+    "crud",
+    "json-server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
